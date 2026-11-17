@@ -3,7 +3,7 @@ public class KillCilantro {
         int i = 0;
         String finale = "";
         for (i = 0; i <= one.length(); i++) { 
-            if (i + 6 <= one.length()) { 
+            if (i + 7 <= one.length()) { 
                 finale = one.replace("cilantro", "parsley"); 
             } 
         }
