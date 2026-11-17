@@ -17,6 +17,7 @@ public class KillCilantro {
         killCilantro("nothinghere");
         killCilantro("testcilantro");
         killCilantro("cilantrocilantrocilantro");
+        killCilantro("Buy $cilantro on scam.fun... cilantro is going to the MOON!");
     }
 }
 
